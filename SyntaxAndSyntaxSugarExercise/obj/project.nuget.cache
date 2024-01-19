@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0i9ZLXZmwteDjg7mV+Aaw+T7X0un7tldffJ/rLQBixqRQ2nim0F/0Oo5lDukNtK9NNpGJDOFjcIsi+VNgQJkg==",
+  "dgSpecHash": "2z/6KLk3w0+r/sKS7AEonJoTUQJ7dKdHYI352VDDeM+pejQ8NlP8fM9O2Kh3AHUdxKkkVSZorB+2JHbeJIBIdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ak47/Desktop/Repos_folder/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/SyntaxAndSyntaxSugarExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/ak47/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/ak47/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.22/microsoft.netcore.app.host.osx-arm64.6.0.22.nupkg.sha512",
+    "/Users/ak47/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
